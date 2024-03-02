@@ -14,11 +14,7 @@
  * Local DEFINES
  */
 #define DUTY50    50
-#define DUTY5     5
 #define DUTY6     6
-#define DUTY10    10
-#define DUTY7     7
-
 
 void ir_init(void){
   app_log_info("Initialising Carrier PWM output...\n\r\n");
